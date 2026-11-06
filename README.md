@@ -1,7 +1,7 @@
-#AGTS(also names MBFS)
-Advantage-Guided Thompson Sampling /model-based feature  selection
-仅仅名字不同
-Just different names.
+# AGTS(also names MBFS)
+## Advantage-Guided Thompson Sampling /model-based feature  selection
+### 仅仅名字不同
+### Just different names.
 
 [![CI](https://github.com/<you>/mbfs/actions/workflows/ci.yml/badge.svg)](https://github.com/<you>/mbfs/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
